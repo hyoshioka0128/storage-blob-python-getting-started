@@ -5,7 +5,7 @@ author: dineshmurthy
 ---
 
 # Azure Storage: Getting Started with Azure Storage in Python
-Samples documenting basic operations with Azure Blob storage services in Python. 
+Samples documenting basic operations with Azure Blob Storage Services in Python. 
 
 ## Running this sample
 This sample can be run using either the Azure Storage Emulator (Windows) or by using your Azure Storage account name and key. Please update the config.py file with the appropriate properties.
